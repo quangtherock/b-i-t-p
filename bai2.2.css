@@ -1,0 +1,22 @@
+h1{
+    margin-left: 100px;
+    margin-right: 500px;
+}
+h2{
+    margin-left: 170px;
+    margin-right: 400px;
+}
+ul{
+    margin-left: 150px;
+    margin-right: 400px;
+}
+.anh,.chu{
+    width: 53%;
+    margin-left: 170px;
+    margin-right: 400px;
+}
+.link1{
+    text-decoration: none;
+    color: black;
+}
+

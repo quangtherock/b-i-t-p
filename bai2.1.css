@@ -1,0 +1,26 @@
+h1{
+   margin-left: 25%;
+   margin-right: 25%;
+    text-align: center;
+}
+h2,p{
+    margin-left: 27%;
+    margin-right: 27%;
+     text-align: center;
+ }
+body{
+    margin-top: 50px;
+}
+.CN{
+    text-align: center;
+}
+.a2{
+    margin-left: 29%;
+    margin-right: 29%;
+}
+.anh1{
+    width: 60%;
+}
+.p1{
+   scrollbar-face-color: beige;
+}
